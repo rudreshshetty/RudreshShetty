@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rudresh%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=a78bfa"/>
+<img width="100%" src="https://raw.githubusercontent.com/rudreshshetty/RudreshShetty/main/Screenshot%202026-06-10%20124701.png"/>
 
 <br><br>
 
@@ -15,6 +15,10 @@
 <a href="https://rudreshabmportfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
+
+</div>
+
+---
 
 </div>
 
