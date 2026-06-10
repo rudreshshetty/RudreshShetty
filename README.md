@@ -74,8 +74,8 @@ goal     : "Build intelligent, scalable solutions in the cloud."
 ## 📈 Skill Proficiency
 
 ```text
-🐍 Python          ███████████████████░ 95%
-☕ Java            ██████████████████░░ 90%
+🐍 Python         ███████████████████░ 95%
+☕ Java           ██████████████████░░ 90%
 🌐 HTML/CSS       ███████████████████░ 95%
 ⚡ JavaScript     ██████████████████░░ 90%
 🚀 Flask          ██████████████████░░ 90%
