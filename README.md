@@ -8,7 +8,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rudreshshetty&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge"/>
 
 &nbsp;&nbsp;
 
