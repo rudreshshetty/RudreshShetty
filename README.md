@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=MCA+Student+%40+Sapthagiri+NPS+University;Aspiring+Cloud+Engineer+☁️;Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Building+Real-World+Projects"/>
+
 
 <br><br>
 
