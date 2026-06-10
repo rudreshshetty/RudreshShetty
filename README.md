@@ -10,11 +10,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=rudreshshetty&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge"/>
 
+&nbsp;&nbsp;
+
 <a href="https://rudreshabmportfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 </div>
+
 
 ---
 
