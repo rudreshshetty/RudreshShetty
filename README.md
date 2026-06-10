@@ -1,11 +1,18 @@
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rudresh%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=a78bfa)](https://rudreshabmportfolio.netlify.app/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rudresh%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MCA+Student+%40+Sapthagiri+NPS+University;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rudreshshetty&label=Profile+Views&color=7c3aed&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=MCA+Student+%40+Sapthagiri+NPS+University;Aspiring+Cloud+Engineer+☁️;Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Building+Real-World+Projects"/>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rudreshshetty&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge"/>
+
+<a href="https://rudreshabmportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </div>
 
