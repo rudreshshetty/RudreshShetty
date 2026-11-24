@@ -25,7 +25,7 @@
 name     : Rudresh Shetty
 location : Bengaluru, India 🇮🇳
 edu      : MCA — Sapthagiri NPS University
-status   : Student | Open to Opportunities
+status   : Open to Opportunities
 interests: Cloud Engineering · Full Stack Dev · AI & ML · Data Visualization
 goal     : "Build intelligent, scalable solutions in the cloud."
 ```
